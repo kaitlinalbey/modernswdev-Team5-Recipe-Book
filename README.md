@@ -9,7 +9,15 @@
 
 ## 👥 Team Members & Handles
 
-> Add information here
+| Name | Handle |
+|---|---|
+| Kaitlin Albey | kaitlinalbey |
+|  J'Kyla Miller | jlmiller4 |
+| Brooke Lambert | brooke006 |
+| John Harton | JohnH884 |
+| Miles Searcy | milessearcy |
+
+
 
 ---
 
